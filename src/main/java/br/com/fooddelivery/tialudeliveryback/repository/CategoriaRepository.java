@@ -14,4 +14,6 @@ public interface CategoriaRepository extends JpaRepository<Categoria, Long> {
 
     // Busca todas as categorias de um cardápio específico
     List<Categoria> findByCardapioId(Long idCardapio);
+
+        //finalizado
 }
