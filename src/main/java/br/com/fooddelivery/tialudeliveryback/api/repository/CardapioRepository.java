@@ -14,3 +14,5 @@ public interface CardapioRepository extends JpaRepository<Cardapio, Long> {
     // Necessário para a validação do CA-005 (Contagem)
     long countByMerchantId(Long merchantId);
 }
+
+//atualizado
