@@ -33,3 +33,7 @@ public class CardapioService {
         cardapioRepository.delete(cardapio);
     }
 }
+
+// Este PR contém a lógica de serviço implementada conforme os requisitos. 
+// Devido à ausência das entregas dos membros responsáveis pelo Repositório e Entity, o código apresenta erros de compilação por falta dessas referências.
+//  Estou entregando minha parte isolada para cumprir o prazo.
